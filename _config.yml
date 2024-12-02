@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: John Mortensen
 github_username: nighthawkcoders
 github_repo: "csse1" 
-baseurl: "/csse1"
+# baseurl: "/csse1"
 future: true
 remote_theme: jekyll/minima
 minima:
